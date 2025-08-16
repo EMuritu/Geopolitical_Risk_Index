@@ -33,6 +33,7 @@ Data is sourced from reputable institutions like:
 - 32.7% of global oil production originates from high-risk countries. A significant portion of global supply remains vulnerable to disruptions, reinforcing the need for diversification in energy sourcing.
 
 - **Highest_Risk_Producers:**
+  
 | country            |   oil_production_kbd |   composite_risk |
 |:-------------------|---------------------:|-----------------:|
 | Iraq               |                 2120 |          76.1759 |
