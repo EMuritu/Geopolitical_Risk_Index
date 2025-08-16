@@ -17,14 +17,13 @@ Data is sourced from reputable institutions like:
 ## 3. Index Components
 1. **Oil Production** - Measured in barrels per day (bbl/day) to weigh countries by production scale.
 2. **Political Stability**- Reflects the likelihood of political instability and/or politically-motivated violence.
-3. **Rule of Law**- Measures confidence in and adherence to the rules of society, including the quality of contract enforcement, property rights and the courts.
+3. **Rule of Law**- Measures confidence in adherence to the rules of society, including the quality of contract enforcement, property rights and the courts.
 4. **Control of Corruption** Captures perceptions of the extent to which public power is exercised for private gain.
 
 ## 4. Methodology
-**Data Normalization**: Governance indicators are normalized to a 0–100 scale.
-**Weighting**: 
-   - Oil production determines a country's impact on global supply.
-   - Governance indicators are averaged into a composite governance score.
+- **Data Normalization**: Governance indicators are normalized by converting them to metrics of a common scale of 0–100.
+- **Weighting**:
+   - Governance indicators are averaged into a composite governance score based on their importance
 **Risk Index Calculation**: 
      
    - Higher GRI = Higher geopolitical risk from an oil supply standpoint.
