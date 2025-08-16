@@ -49,6 +49,7 @@ Data is sourced from reputable institutions like:
 | Mexico             |                 3592 |          49.4248 |
 
 - **Top Stable High Producers:**
+  
 | country              |   oil_production_kbd |   composite_risk |
 |:---------------------|---------------------:|-----------------:|
 | Norway               |                 2024 |          12.3117 |
