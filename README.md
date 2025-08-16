@@ -24,9 +24,17 @@ Data is sourced from reputable institutions like:
 - **Data Normalization**: Governance indicators are normalized to a common scale of 0–100.
 - **Weighting**:
    - Governance indicators are averaged into a composite governance score based on their importance
+   - **Political Stability**- 40%
+   - **Rule of Law**-30%
+   - **Control of Corruption**-30%
+   - 
+   - 
+   - 
 **Risk Index Calculation**: 
      
    - Higher GRI = Higher geopolitical risk from an oil supply standpoint.
+
+
 
 
 
