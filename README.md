@@ -21,7 +21,7 @@ Data is sourced from reputable institutions like:
 - **Control of Corruption** Captures perceptions of the extent to which public power is exercised for private gain.
 
 ## 4. Methodology
-- **Data Normalization**: Governance indicators are normalized by converting them to metrics of a common scale of 0–100.
+- **Data Normalization**: Governance indicators are normalized to a common scale of 0–100.
 - **Weighting**:
    - Governance indicators are averaged into a composite governance score based on their importance
 **Risk Index Calculation**: 
