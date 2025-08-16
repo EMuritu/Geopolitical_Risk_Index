@@ -22,17 +22,50 @@ Data is sourced from reputable institutions like:
 
 ## 4. Methodology
 - **Data Normalization**: Governance indicators are normalized to a common scale of 0–100.
-- **Weighting**:
-   - Governance indicators are averaged into a composite governance score based on their importance
+- **Weighting**: Governance indicators are averaged into a composite governance score based on their importance
    - **Political Stability**- 40%
    - **Rule of Law**-30%
    - **Control of Corruption**-30%
-   - 
-   - 
-   - 
 **Risk Index Calculation**: 
-     
    - Higher GRI = Higher geopolitical risk from an oil supply standpoint.
+
+ ## 5. Key Insights
+- 32.7% of global oil production originates from high-risk countries. A significant portion of global supply remains vulnerable to disruptions, reinforcing the need for diversification in energy sourcing.
+
+- **Highest_Risk_Producers:**
+| country            |   oil_production_kbd |   composite_risk |
+|:-------------------|---------------------:|-----------------:|
+| Iraq               |                 2120 |          76.1759 |
+| Nigeria            |                 2023 |          64.9497 |
+| Venezuela, RB      |                 3447 |          59.9598 |
+| Russian Federation |                11679 |          59.7176 |
+| Angola             |                 1150 |          58.7761 |
+| Algeria            |                 1465 |          57.7518 |
+| Iran, Islamic Rep. |                 3850 |          56.6008 |
+| Libya              |                 1807 |          50.7766 |
+| Kazakhstan         |                 1609 |          50.0883 |
+| Mexico             |                 3592 |          49.4248 |
+
+-**Top Stable High Producers:**
+| country              |   oil_production_kbd |   composite_risk |
+|:---------------------|---------------------:|-----------------:|
+| Norway               |                 2024 |          12.3117 |
+| Canada               |                 5647 |          18.1363 |
+| United Kingdom       |                  715 |          22.2328 |
+| Qatar                |                 1783 |          26.8426 |
+| United Arab Emirates |                 4016 |          27.0448 |
+
+- OPEC is significant because it collectively manages a huge portion of global oil supply, giving its members the ability to influence global energy prices and international economic trends.
+
+- A time-series(1996-2024) comparison reveals: OPEC risk scores have worsened relative to non-OPEC producers, driven by:
+
+- Venezuela’s collapse (sharp deterioration post-2014)
+- Libya’s instability (post-Gaddafi volatility)
+- Iran’s fluctuating risk (impact of sanctions and protests)
+- Non-OPEC producers (e.g., U.S., Canada, Norway) have maintained lower risk scores due to stable governance and regulatory frameworks.
+
+- Key Trend: OPEC’s reliance on high-risk producers has increased supply-side vulnerabilities over the past decade.
+
 
 
 
