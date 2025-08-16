@@ -26,6 +26,7 @@ Data is sourced from reputable institutions like:
    - **Political Stability**- 40%
    - **Rule of Law**-30%
    - **Control of Corruption**-30%
+     
 **Risk Index Calculation**: 
    - Higher GRI = Higher geopolitical risk from an oil supply standpoint.
 
