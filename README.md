@@ -62,9 +62,9 @@ Data is sourced from reputable institutions like:
 - A time-series(1996-2024) comparison reveals: OPEC risk scores have worsened relative to non-OPEC producers, driven by:
 
 - Venezuela’s collapse (sharp deterioration post-2014)
-- Libya’s instability (post-Gaddafi volatility)
-- Iran’s fluctuating risk (impact of sanctions and protests)
-- Non-OPEC producers (e.g., U.S., Canada, Norway) have maintained lower risk scores due to stable governance and regulatory frameworks.
+   - Libya’s instability (post-Gaddafi volatility)
+   - Iran’s fluctuating risk (impact of sanctions and protests)
+   - Non-OPEC producers (e.g., U.S., Canada, Norway) have maintained lower risk scores due to stable governance and regulatory frameworks.
 
 - Key Trend: OPEC’s reliance on high-risk producers has increased supply-side vulnerabilities over the past decade.
 
